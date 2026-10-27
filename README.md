@@ -64,8 +64,8 @@ The system employs six specialized CrewAI agents working in sequence:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/axiondynamix/ai-movie-generator.git
-cd ai-movie-generator
+git clone https://github.com/axiondynamix/MovieStudio.git
+cd MovieStudio
 ```
 
 2. **Create a virtual environment** (recommended):
